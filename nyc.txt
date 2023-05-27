@@ -1,0 +1,12 @@
+5
+Boston
+Atlanta
+NYC
+LA
+Chicago
+5
+5 Boston LA
+6 NYC LA
+3 Atlanta NYC
+3 Boston Chicago
+4 Atlanta Chicago
