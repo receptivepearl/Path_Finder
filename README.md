@@ -154,14 +154,4 @@ Rather than relying on libraries, the algorithm is implemented **from first prin
 
 ---
 
-## Short Description (GitHub “About” section)
-
-**Recommended:**
-
-> Java implementation of a weighted graph and Dijkstra’s shortest-path algorithm using priority queues and adjacency maps.
-
-**Alternative:**
-
-> Shortest-path computation engine modeling transportation networks with weighted graphs in Java.
-
 
